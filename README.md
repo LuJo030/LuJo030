@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="elytrix_logo.png" alt="Elytrix Logo" width="180">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="elytrix_logo.png" alt="Elytrix Logo" width="170">
 </p>
 
 <h1 align="center">Elytrix</h1>
@@ -25,4 +26,4 @@ Ich bin Joel (`LuJo030`) und beschäftige mich mit Webentwicklung, Discord-Bots,
 
 GitHub: [@LuJo030](https://github.com/LuJo030)
 Website: [elytrix.de](https://elytrix.de)
-:::  
+::: 
