@@ -1,6 +1,6 @@
-<!--
-<h1 align="center">Elytrix</h1>
 
+<h1 align="center">Elytrix</h1>
+<!--
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="elytrix_logo.png" alt="Elytrix Logo" width="170">
