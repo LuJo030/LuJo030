@@ -1,9 +1,7 @@
-<p align="center">
+<h1 align="center">Elytrix</h1> <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="elytrix_logo.png" alt="Elytrix Logo" width="170">
 </p>
-
-<h1 align="center">Elytrix</h1>
 
 <p align="center">
   Discord-Bot, Web-Dashboard und Verwaltung für moderne Discord-Server.
