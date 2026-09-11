@@ -12,12 +12,12 @@
 </p>
 
 Ich bin Joel (`LuJo030`) und beschäftige mich mit Webentwicklung, Discord-Bots, Raspberry Pi, Linux und Servertechnik.
-::: 
+
 
 
 GitHub: [@LuJo030](https://github.com/LuJo030)
 Website: [elytrix.de](https://elytrix.de)
-::: 
+
 
 ## Meine Projekte
 [Elytrix.de](https://elytrix.de) ist mein eigenes Projekt für die zentrale Verwaltung von Discord-Servern.
