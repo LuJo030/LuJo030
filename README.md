@@ -29,7 +29,7 @@ Ich beschäftige mich mit Webentwicklung, Discord-Bots, Linux, Raspberry Pi, Min
 * Webentwicklung
 * Serververwaltung
 
-## Mein Hauptprojekt
+# Mein Hauptprojekt
 
 ### [Elytrix](https://elytrix.de)
 
