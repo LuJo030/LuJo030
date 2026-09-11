@@ -1,36 +1,61 @@
-
-<h1 align="center">Über mich und meine Projekte</h1>
-<!--
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="elytrix_logo.png" alt="Elytrix Logo" width="170">
-</p>
--->
+<h1 align="center">Hallo, ich bin Joel</h1>
 
 <p align="center">
-  Discord-Bot, Web-Dashboard und Verwaltung für moderne Discord-Server.
+  Entwickler von Discord-Bots, Web-Dashboards und Serverlösungen
 </p>
 
-Ich bin Joel (`LuJo030`) und beschäftige mich mit Webentwicklung, Minecraft Servern, Discord-Bots, Raspberry Pi, Linux und Servertechnik.
-Diese Programmiersprachen kann ich:
-*Python
-*Java
-*Java Script
-*HTML
-*CSS
+<p align="center">
+  <a href="https://elytrix.de">Website</a> •
+  <a href="https://github.com/LuJo030">GitHub</a>
+</p>
 
+---
 
+## Über mich
 
-GitHub: [@LuJo030](https://github.com/LuJo030)
-Website: [elytrix.de](https://elytrix.de)
+Ich bin Joel, auf GitHub als `LuJo030` unterwegs.
+Ich beschäftige mich mit Webentwicklung, Discord-Bots, Linux, Raspberry Pi, Minecraft-Servern und Servertechnik.
 
+## Kenntnisse
 
-## Meine Projekte
-[Elytrix.de](https://elytrix.de) ist mein eigenes Projekt für die zentrale Verwaltung von Discord-Servern.
-* Discord-Bot
-* Tickets & Moderation
-* TempTalks
+* Python
+* Java
+* JavaScript
+* HTML
+* CSS
+* Linux
+* Git und GitHub
+* Discord-Bot-Entwicklung
+* Webentwicklung
+* Serververwaltung
+
+## Mein Hauptprojekt
+
+### [Elytrix](https://elytrix.de)
+
+Elytrix ist eine Plattform zur zentralen Verwaltung moderner Discord-Server. Sie verbindet einen leistungsfähigen Discord-Bot mit einem übersichtlichen Web-Dashboard.
+
+Zu den Funktionen gehören:
+
+* Ticket- und Supportsystem
+* Moderation und Protokollierung
+* Temporäre Sprachkanäle
 * Teamverwaltung
+* Rollen- und Verifizierungssysteme
+* Automatische Benachrichtigungen
 * Web-Dashboard
 * Premium- und Lizenzsystem
+* Verwaltung mehrerer Discord-Server
 
+## Aktuelle Schwerpunkte
+
+* Weiterentwicklung von Elytrix
+* Entwicklung neuer Discord-Module
+* Verbesserung des Web-Dashboards
+* Aufbau einer eigenen Serverinfrastruktur
+* Automatisierung mit Raspberry Pi und Linux
+
+## Links
+
+* Website: [elytrix.de](https://elytrix.de)
+* GitHub: [github.com/LuJo030](https://github.com/LuJo030)
