@@ -10,7 +10,7 @@
 <p align="center">
   Discord-Bot, Web-Dashboard und Verwaltung für moderne Discord-Server.
 </p>
-## Über mich
+
 Ich bin Joel (`LuJo030`) und beschäftige mich mit Webentwicklung, Discord-Bots, Raspberry Pi, Linux und Servertechnik.
 ::: 
 
