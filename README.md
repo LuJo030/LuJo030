@@ -1,5 +1,5 @@
 
-<h1 align="center">Über mich</h1>
+<h1 align="center">Über mich und meine Projekte</h1>
 <!--
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
