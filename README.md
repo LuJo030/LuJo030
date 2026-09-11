@@ -11,10 +11,14 @@
   Discord-Bot, Web-Dashboard und Verwaltung für moderne Discord-Server.
 </p>
 
-## Über Elytrix
+Ich bin Joel (`LuJo030`) und beschäftige mich mit Webentwicklung, Discord-Bots, Raspberry Pi, Linux und Servertechnik.
 
+GitHub: [@LuJo030](https://github.com/LuJo030)
+Website: [elytrix.de](https://elytrix.de)
+::: 
+
+## Meine Projekte
 [Elytrix.de](https://elytrix.de) ist mein eigenes Projekt für die zentrale Verwaltung von Discord-Servern.
-
 * Discord-Bot
 * Tickets & Moderation
 * TempTalks
@@ -22,10 +26,3 @@
 * Web-Dashboard
 * Premium- und Lizenzsystem
 
-## Über mich
-
-Ich bin Joel (`LuJo030`) und beschäftige mich mit Webentwicklung, Discord-Bots, Raspberry Pi, Linux und Servertechnik.
-
-GitHub: [@LuJo030](https://github.com/LuJo030)
-Website: [elytrix.de](https://elytrix.de)
-::: 
