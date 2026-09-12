@@ -16,6 +16,8 @@
   <a href="https://elytrix.de">
     <img src="https://img.shields.io/badge/Website-elytrix.de-16c8f4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
+
+<p align="center">
   <a href="https://github.com/LuJo030">
     <img src="https://img.shields.io/badge/GitHub-LuJo030-7c5cff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
