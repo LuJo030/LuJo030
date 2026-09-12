@@ -61,6 +61,9 @@ Elytrix ist eine Plattform zur zentralen Verwaltung moderner Discord-Server. Sie
 <p>
   <a href="https://elytrix.de">
     <img src="https://img.shields.io/badge/Elytrix-Website_öffnen-16c8f4?style=for-the-badge" alt="Elytrix öffnen">
+    <a href="https://discord.elytrix.de">
+  <img src="https://img.shields.io/badge/Discord-Server_öffnen-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord öffnen">
+</a>
   </a>
 </p>
 
