@@ -77,21 +77,21 @@ Elytrix ist eine Plattform zur zentralen Verwaltung moderner Discord-Server. Sie
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=LuJo030&show_icons=true&theme=tokyonight&hide_border=true&locale=de"
-    alt="GitHub-Statistiken"
-    height="165"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuJo030&layout=compact&theme=tokyonight&hide_border=true&locale=de"
-    alt="Meistverwendete Sprachen"
-    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuJo030&theme=tokyonight"
+    alt="GitHub-Profilübersicht"
+    width="100%"
   >
 </p>
 
----
-
 <p align="center">
-  <a href="https://elytrix.de">elytrix.de</a>
-  •
-  <a href="https://github.com/LuJo030">github.com/LuJo030</a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuJo030&theme=tokyonight"
+    alt="GitHub-Statistiken"
+    width="49%"
+  >
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuJo030&theme=tokyonight"
+    alt="Verwendete Programmiersprachen"
+    width="49%"
+  >
 </p>
